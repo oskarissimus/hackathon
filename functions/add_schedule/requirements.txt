@@ -1,0 +1,4 @@
+requests
+functions-framework
+pydantic
+google-cloud-scheduler
